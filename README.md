@@ -121,7 +121,7 @@ npm start
 ### 🗑️ DELETE — Remove Product
 
 ![DELETE 1](https://github.com/AbyssDeveloper21/Inventory-Management-System-MERN-CRUD-App/blob/main/app/7.png)
-![DELETE 2]https://github.com/AbyssDeveloper21/Inventory-Management-System-MERN-CRUD-App/blob/main/app/8.png)
+![DELETE 2](https://github.com/AbyssDeveloper21/Inventory-Management-System-MERN-CRUD-App/blob/main/app/8.png)
 
 ---
 
